@@ -2,4 +2,4 @@
 
 В этой проектной работе я дополнила файл style.css так, чтобы интерфейс соответствовал макету уже работающего приложения «Посмотри в окно».
 
-[Cсылка на репозиторий](https://github.com/Elly-holly/posmotri-v-okno-fd)
+https://github.com/Elly-holly/posmotri-v-okno-fd
